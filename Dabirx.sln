@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35821.62 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dabirx.AppHost", "Dabirx.AppHost\Dabirx.AppHost.csproj", "{C69DF6CC-AD7A-4D9D-85F4-7A3A8E367584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dabirx.ServiceDefaults", "Dabirx.ServiceDefaults\Dabirx.ServiceDefaults.csproj", "{8BD0DC75-B2FF-9CC1-CF8F-786CB3C7FEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dabirx.ApiService", "Dabirx.ApiService\Dabirx.ApiService.csproj", "{FD1AB6E0-B598-0E09-6548-35B99B1C5DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dabirx.Web", "Dabirx.Web\Dabirx.Web.csproj", "{595D07C4-7C95-AB78-12BA-008F412B7E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69DF6CC-AD7A-4D9D-85F4-7A3A8E367584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69DF6CC-AD7A-4D9D-85F4-7A3A8E367584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69DF6CC-AD7A-4D9D-85F4-7A3A8E367584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69DF6CC-AD7A-4D9D-85F4-7A3A8E367584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD0DC75-B2FF-9CC1-CF8F-786CB3C7FEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD0DC75-B2FF-9CC1-CF8F-786CB3C7FEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD0DC75-B2FF-9CC1-CF8F-786CB3C7FEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD0DC75-B2FF-9CC1-CF8F-786CB3C7FEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1AB6E0-B598-0E09-6548-35B99B1C5DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1AB6E0-B598-0E09-6548-35B99B1C5DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1AB6E0-B598-0E09-6548-35B99B1C5DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1AB6E0-B598-0E09-6548-35B99B1C5DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595D07C4-7C95-AB78-12BA-008F412B7E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595D07C4-7C95-AB78-12BA-008F412B7E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595D07C4-7C95-AB78-12BA-008F412B7E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595D07C4-7C95-AB78-12BA-008F412B7E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1081C644-460E-4C61-BC81-C4C318738A30}
+	EndGlobalSection
+EndGlobal
