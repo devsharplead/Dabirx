@@ -1,15 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Dabirx\\Dabirx\\Dabirx\\",
-  "Documents": [],
+  "WorkspaceRootPath": "F:\\Dabirx\\Dabirx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\openapioptionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\openapioptionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\openapi.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\openapi.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\dabirx.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\dabirx.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 220,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 136,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +55,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationExtensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:02:11.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationExtensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:02:09.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenApi.Extensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApi.Extensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApi.Extensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApi.Extensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApi.Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:01:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenApiOptionsExtensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApiOptionsExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApiOptionsExtensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApiOptionsExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\OpenApiOptionsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:01:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\HttpClientExtensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\HttpClientExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:00:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:00:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:00:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DabirX.ServiceDefaults",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj",
+              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T16:59:09.051Z",
+              "EditorCaption": ""
             }
           ]
         }
