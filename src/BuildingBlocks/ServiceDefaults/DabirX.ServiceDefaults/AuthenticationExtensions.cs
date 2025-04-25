@@ -1,5 +1,7 @@
 ﻿
 
+
+
 namespace DabirX.ServiceDefaults;
 
 public static class AuthenticationExtensions
