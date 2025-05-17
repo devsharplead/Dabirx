@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Dabirx\\Dabirx\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{703C1C66-1268-4246-8B4C-7F92F24EEA9E}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\ApiOrchestratorService.Domain.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.domain\\seedwork\\ipromptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703C1C66-1268-4246-8B4C-7F92F24EEA9E}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\ApiOrchestratorService.Domain.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.domain\\seedwork\\ipromptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{703C1C66-1268-4246-8B4C-7F92F24EEA9E}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\ApiOrchestratorService.Domain.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.domain\\seedwork\\ipromptanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703C1C66-1268-4246-8B4C-7F92F24EEA9E}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\ApiOrchestratorService.Domain.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.domain\\seedwork\\ipromptanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C4F588F-6B3C-4C61-BA67-42E6FB585711}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\ApiOrchestratorService.Contract.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.contract\\interfaces\\iapicatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C4F588F-6B3C-4C61-BA67-42E6FB585711}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\ApiOrchestratorService.Contract.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.contract\\interfaces\\iapicatalogclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 136,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,45 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IPromptBuilder.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptBuilder.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptBuilder.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptBuilder.cs",
-              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:40:47.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPromptAnalyzer.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptAnalyzer.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptAnalyzer.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptAnalyzer.cs",
-              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Domain\\SeedWork\\IPromptAnalyzer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:37:41.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IApiCatalogClient.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\Interfaces\\IApiCatalogClient.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\Interfaces\\IApiCatalogClient.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\Interfaces\\IApiCatalogClient.cs",
-              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.Contract\\Interfaces\\IApiCatalogClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:52:23.358Z",
-              "EditorCaption": ""
             }
           ]
         }
