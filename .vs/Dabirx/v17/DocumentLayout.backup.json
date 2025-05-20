@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "F:\\Dabirx\\Dabirx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9542AFC6-7A80-43E4-A689-520CF15B8F46}|src\\Services\\RagService\\RagService.API\\RagService.API.csproj|f:\\dabirx\\dabirx\\src\\services\\ragservice\\ragservice.api\\ragservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9542AFC6-7A80-43E4-A689-520CF15B8F46}|src\\Services\\RagService\\RagService.API\\RagService.API.csproj|solutionrelative:src\\services\\ragservice\\ragservice.api\\ragservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA94BA6-037E-4BEE-A32C-7BF277F3A6D4}|src\\AppHost\\AppHost\\AppHost.csproj|f:\\dabirx\\dabirx\\src\\apphost\\apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DA94BA6-037E-4BEE-A32C-7BF277F3A6D4}|src\\AppHost\\AppHost\\AppHost.csproj|solutionrelative:src\\apphost\\apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\apiorchestratorservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\apiorchestratorservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA94BA6-037E-4BEE-A32C-7BF277F3A6D4}|src\\AppHost\\AppHost\\AppHost.csproj|f:\\dabirx\\dabirx\\src\\apphost\\apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8DA94BA6-037E-4BEE-A32C-7BF277F3A6D4}|src\\AppHost\\AppHost\\AppHost.csproj|solutionrelative:src\\apphost\\apphost\\apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj|f:\\dabirx\\dabirx\\src\\services\\apicatalogservice\\apicatalogservice\\apiorchestratorservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj|solutionrelative:src\\services\\apicatalogservice\\apicatalogservice\\apiorchestratorservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|f:\\dabirx\\dabirx\\src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14D83E84-1A22-0D69-8241-F7F5B121CDB5}|src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\DabirX.ServiceDefaults.csproj|solutionrelative:src\\buildingblocks\\servicedefaults\\dabirx.servicedefaults\\configurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|f:\\dabirx\\dabirx\\src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F005FE-860F-4CE5-A848-B24C96521C60}|src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj|solutionrelative:src\\services\\apiorchestratorservice\\apiorchestratorservice.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,109 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "src\\Services\\ApiCatalogService\\ApiOrchestratorService.Infrastructure\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:05:03.405Z"
+              "Title": "RagService.API",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\RagService\\RagService.API\\RagService.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\RagService\\RagService.API\\RagService.API.csproj",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\RagService\\RagService.API\\RagService.API.csproj",
+              "RelativeToolTip": "src\\Services\\RagService\\RagService.API\\RagService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T06:48:44.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\AppHost\\AppHost\\Program.cs",
-              "RelativeDocumentMoniker": "src\\AppHost\\AppHost\\Program.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\AppHost\\AppHost\\Program.cs",
-              "RelativeToolTip": "src\\AppHost\\AppHost\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:17:31.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs",
-              "RelativeToolTip": "src\\Services\\ApiCatalogService\\ApiCatalogService\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:12:29.908Z"
+              "Title": "ApiOrchestratorService.API",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj",
+              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\ApiOrchestratorService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T06:48:28.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppHost.csproj",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\AppHost\\AppHost\\AppHost.csproj",
-              "RelativeDocumentMoniker": "src\\AppHost\\AppHost\\AppHost.csproj",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\AppHost\\AppHost\\AppHost.csproj",
-              "RelativeToolTip": "src\\AppHost\\AppHost\\AppHost.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T10:05:20.351Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\Program.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:45:10.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApiOrchestratorService.API.csproj",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj",
-              "RelativeToolTip": "src\\Services\\ApiCatalogService\\ApiCatalogService\\ApiOrchestratorService.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T09:55:20.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationExtensions.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\AuthenticationExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:44:09.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs",
-              "RelativeToolTip": "src\\Services\\ApiCatalogService\\ApiCatalogService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:09:35.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs",
-              "RelativeDocumentMoniker": "src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs",
-              "RelativeToolTip": "src\\Services\\ApiCatalogService\\ApiCatalogService\\Extensions\\Extensions.cs",
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\GlobalUsings.cs",
+              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\Services\\ApiOrchestratorService\\ApiOrchestratorService.API\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T10:12:35.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfigurationExtensions.cs",
-              "DocumentMoniker": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
-              "ToolTip": "F:\\Dabirx\\Dabirx\\src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\ServiceDefaults\\DabirX.ServiceDefaults\\ConfigurationExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T09:43:18.928Z"
+              "WhenOpened": "2025-05-18T21:45:08.272Z"
             }
           ]
         }
