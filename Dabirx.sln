@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOrchestratorService.Infr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOrchestratorService.Domain", "src\Services\ApiOrchestratorService\ApiOrchestratorService.Domain\ApiOrchestratorService.Domain.csproj", "{703C1C66-1268-4246-8B4C-7F92F24EEA9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RagService", "RagService", "{9DF1689F-75B9-4F97-9B3B-62E38992A966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagService.API", "src\Services\RagService\RagService.API\RagService.API.csproj", "{9542AFC6-7A80-43E4-A689-520CF15B8F46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,10 @@ Global
 		{703C1C66-1268-4246-8B4C-7F92F24EEA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{703C1C66-1268-4246-8B4C-7F92F24EEA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{703C1C66-1268-4246-8B4C-7F92F24EEA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9542AFC6-7A80-43E4-A689-520CF15B8F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9542AFC6-7A80-43E4-A689-520CF15B8F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9542AFC6-7A80-43E4-A689-520CF15B8F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9542AFC6-7A80-43E4-A689-520CF15B8F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +89,8 @@ Global
 		{2C4F588F-6B3C-4C61-BA67-42E6FB585711} = {ED95CCCE-EF99-4B14-91E3-328C73AD8D31}
 		{6794E3E9-C5D6-45B4-89DA-50082BAB60D6} = {ED95CCCE-EF99-4B14-91E3-328C73AD8D31}
 		{703C1C66-1268-4246-8B4C-7F92F24EEA9E} = {ED95CCCE-EF99-4B14-91E3-328C73AD8D31}
+		{9DF1689F-75B9-4F97-9B3B-62E38992A966} = {8A41F945-32FE-47AC-A850-A782A4106781}
+		{9542AFC6-7A80-43E4-A689-520CF15B8F46} = {9DF1689F-75B9-4F97-9B3B-62E38992A966}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64C18DE9-E973-401F-A7F1-784B666D3A40}
