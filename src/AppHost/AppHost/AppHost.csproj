@@ -15,8 +15,4 @@
     <PackageReference Include="Aspire.Hosting.Redis" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\Services\ApiCatalogService\ApiCatalogService\ApiOrchestratorService.API.csproj" />
-  </ItemGroup>
-
 </Project>

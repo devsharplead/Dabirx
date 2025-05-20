@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOrchestratorService.Doma
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RagService", "RagService", "{9DF1689F-75B9-4F97-9B3B-62E38992A966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagService.API", "src\Services\RagService\RagService.API\RagService.API.csproj", "{9542AFC6-7A80-43E4-A689-520CF15B8F46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagAgent", "src\Services\RagService\RagService.API\RagAgent.csproj", "{9542AFC6-7A80-43E4-A689-520CF15B8F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

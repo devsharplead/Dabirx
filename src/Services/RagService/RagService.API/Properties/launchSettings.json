@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "RagService.API": {
+    "RagAgent.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
